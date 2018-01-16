@@ -7,7 +7,7 @@ package calculadora;
 
 /**
  *
- * @author Nati
+ * @author Natividad
  */
 public class Calculadoraa extends javax.swing.JFrame {
 
